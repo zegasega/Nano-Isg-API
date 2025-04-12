@@ -1,0 +1,4 @@
+add field to personel active or passive
+add field to personel description
+add field isg egitim
+add field saglik raporu
