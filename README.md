@@ -181,5 +181,5 @@ go test ./...
 ## İletişim
 
 Sorularınız veya önerileriniz için:
-- Email: your.email@example.com
-- GitHub Issues: https://github.com/yourusername/isg-api/issues 
+- Email: gokberkkozak@gmail.com
+- GitHub Issues: https://github.com/zegasega/isg-api/issues 
