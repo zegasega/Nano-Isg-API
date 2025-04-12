@@ -176,9 +176,7 @@ go run cmd/main.go
 go test ./...
 ```
 
-## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## İletişim
 
