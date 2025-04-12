@@ -182,4 +182,4 @@ go test ./...
 
 Sorularınız veya önerileriniz için:
 - Email: gokberkkozak@gmail.com
-- GitHub Issues: https://github.com/zegasega/isg-api/issues 
+- GitHub Issues: [https://github.com/zegasega/isg-api/issues ](https://github.com/zegasega/Nano-Isg-API/issues)
